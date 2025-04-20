@@ -1,0 +1,29 @@
+{
+    "os_list": [
+        {
+            "description": "An OPen Wireless Router for RPi3",
+            "download_size": 10674904,
+            "group": "Minimal",
+            "icon": "http://downloads.sourceforge.net/project/pinn/os/openwrt3/openwrt3.png",
+            "marketing_info": "http://downloads.sourceforge.net/project/pinn/os/openwrt3/marketing.tar",
+            "nominal_size": 28700,
+            "os_info": "http://downloads.sourceforge.net/project/pinn/os/openwrt3/os.json",
+            "os_name": "openwrt3",
+            "partition_setup": "http://downloads.sourceforge.net/project/pinn/os/openwrt3/partition_setup.sh",
+            "partitions_info": "https://pinn.mjh.nz/partitions.json?p=openwrt3&s=28700",
+            "release_date": "2023-05-05",
+            "supported_models": [
+                "Pi 3 Model B Rev",
+                "Pi 3 Model B Plus Rev",
+                "Pi 3 Model A Plus Rev"
+            ],
+            "supports_usb_boot": true,
+            "supports_usb_root": true,
+            "tarballs": [
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt3/boot_wrt.tar.xz",
+                "http://downloads.sourceforge.net/project/pinn/os/openwrt3/root_wrt.tar.xz"
+            ],
+            "version": "23.05.5"
+        }
+    ]
+}
