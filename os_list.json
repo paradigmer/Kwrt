@@ -20,8 +20,8 @@
             "supports_usb_boot": true,
             "supports_usb_root": true,
             "tarballs": [
-                "http://downloads.sourceforge.net/project/pinn/os/openwrt3/boot_wrt.tar.xz",
-                "http://downloads.sourceforge.net/project/pinn/os/openwrt3/root_wrt.tar.xz"
+                "https://sourceforge.net/projects/kwrt/files/boot.fat",
+                "https://sourceforge.net/projects/kwrt/files/root.img"
             ],
             "version": "23.05.5"
         }
